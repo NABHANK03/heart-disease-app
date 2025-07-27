@@ -101,3 +101,5 @@ if st.button("Predict Heart Disease Risk"):
 # --- Footer ---
 st.markdown("---")
 st.write("**Disclaimer:** This is an educational tool and not a substitute for professional medical advice.")
+# Trivial change to force a full app rebuild
+
